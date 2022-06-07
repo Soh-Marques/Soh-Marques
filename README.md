@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Soh-Marques
-- 👀 estou interessada em  Vagas de  emprego na area de desenvolvimento  Front End
-- 🌱 atualmente aprendendo  HTML CSS JS 
+- 👋 Hi, I’m @Soh-Marques 
+- 👀 I'm interested in Front End Development Job Vacancies
+- 🌱 currently learning HTML CSS JS 
 <div>
   <a href="https://github.com/Soh-Marques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soh-Marques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
